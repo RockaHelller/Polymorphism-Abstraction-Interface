@@ -1,0 +1,5 @@
+C:\Users\User\source\repos\Polymorphism_Abstraction_Interface_Homework\Service\obj\Debug\netcoreapp3.1\Service.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Polymorphism_Abstraction_Interface_Homework\Service\obj\Debug\netcoreapp3.1\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Polymorphism_Abstraction_Interface_Homework\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Polymorphism_Abstraction_Interface_Homework\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+C:\Users\User\source\repos\Polymorphism_Abstraction_Interface_Homework\Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
